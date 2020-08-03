@@ -43,3 +43,42 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 https://livestartover-i.akamaized.net/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WhfpLWM.png" group-title="News",Mas 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo-canal-institucional.png" group-title="",Canal Institucional
+https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logocaracol.svg/1200px-Logocaracol.svg.png" group-title="",Caracol
+https://jimmy.zappingtv.com/caracol/caracol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i46.tinypic.com/2vwy3yo.png" group-title="",RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Deutsche Welle English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="",Deutsche Welle English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="",Deutsche Welle Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="News",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="English" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="News",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="RU" tvg-url="" group-title="News",RT en Español
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" tvg-country="UK" tvg-url="" group-title="News",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
