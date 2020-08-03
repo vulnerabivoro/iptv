@@ -35,12 +35,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="Energy" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" group-title="",Energy
 https://pastebin.com/raw/AXvzQiid
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Sport",Esport Club
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" group-title="",La Sexta
-https://livestartover-i.akamaized.net/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WhfpLWM.png" group-title="News",Mas 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo-canal-institucional.png" group-title="",Canal Institucional
@@ -49,6 +45,16 @@ https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live
 https://jimmy.zappingtv.com/caracol/caracol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i46.tinypic.com/2vwy3yo.png" group-title="",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",Deutsche Welle (Opt-1)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",Deutsche Welle (Opt-2)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",Deutsche Welle (Opt-3)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",Deutsche Welle (Opt-4)
+http://ott-cdn.ucom.am/s26/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",Deutsche Welle (Opt-5)
+http://45.126.83.51/qwr9ew/s/s26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Deutsche Welle English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="",Deutsche Welle English
@@ -63,6 +69,28 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",France 24
+http://ott-cdn.ucom.am/s25/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",France 24
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="News",Rai 1 (Opt-1)
+http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="News",Rai 1 (Opt-2)
+http://92.43.140.249/s29/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="News",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYDahPc.png" group-title="News",Rai 5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHFUyxQ.png" group-title="News",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="News",Rai Movie (Opt-1)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1280px-Rai_Premium_-_Logo_2017.svg.png" group-title="News",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="News",NHK World (JP)
@@ -87,8 +115,6 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 http://toonxtv.net/hls/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion (LQ)
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
-#EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png", Anime Loving TV
-http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="News",Al Jazeera
 https://www.youtube.com/watch?v=WisZM9CMlTo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW News
@@ -101,22 +127,79 @@ https://www.youtube.com/watch?v=6N0lbZr_wXs
 https://www.youtube.com/watch?v=NvCSr7qzAAM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",Sky News
 https://www.youtube.com/watch?v=9Auq9mYxFEE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="News",RT America (RU) (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="News",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="News",RT America
 http://ott-cdn.ucom.am/s96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera (QA) (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera (QA) (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="Sport",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="Sport",ESPN U
-https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Other",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="Other",TNT (Opt-1)
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="Other" TNT (Opt-2)
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VI7V1A.png" group-title="Other",USA Network
 http://cdnak8.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="Other",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iP4WSVc.png" group-title="SPAIN",La Sexta (Opt-1)
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iP4WSVc.png" group-title="SPAIN",La Sexta (Opt-2)
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Telemadrid-Logo.svg/1280px-Telemadrid-Logo.svg.png" group-title="SPAIN",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjqyXZo.png" group-title="LATIN AMERICA",Discovery Science
+http://181.198.153.175:5003/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="LATIN AMERICA",ESPN (Opt-1)
+http://181.198.153.175:5004/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="LATIN AMERICA",ESPN 2 (Opt-1)
+http://181.198.153.175:5004/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="LATIN AMERICA",Fox Premium Family
+http://181.198.153.175:5005/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 1
+http://181.198.153.175:5004/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 2
+http://181.198.153.175:5003/play/a08h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 3
+http://181.198.153.175:5007/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZdQpY9Q.png" group-title="LATIN AMERICA",TCM
+http://181.198.153.175:5003/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="ARGENTINA",Fox Sports Sur
+http://181.198.153.175:5002/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFc2CrY.png" group-title="CHILE",24 Horas
+http://181.198.153.175:5002/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51TCi1U.png" group-title="COLOMBIA",Cablenoticias
+http://181.198.153.175:5006/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DqwBlp.png" group-title="COLOMBIA",Canal 13
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTxZUo6.png" group-title="COLOMBIA",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
+http://181.198.153.175:5005/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqwMbTz.png" group-title="COLOMBIA",CityTV
+http://181.198.153.175:5007/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-1)
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-2)
+https://rcnhd.cdn.net.co/live02/rcnhd2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVBz2v6.png" group-title="COLOMBIA",Red Mas
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOc43O7.png" group-title="COLOMBIA",Señal Colombia
+http://181.198.153.175:5006/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJIk7uz.png" group-title="COLOMBIA",Win Sports
+http://181.198.153.175:5005/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN",NHK General (New!)
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium (New!)
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="JAPAN",Gunma TV (New!)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
+http://www.news24.jp/livestream/index.m3u8
