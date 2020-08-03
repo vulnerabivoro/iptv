@@ -82,3 +82,12 @@ https://rt-usa.secure.footprint.net/1105.m3u8
 https://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" tvg-country="UK" tvg-url="" group-title="News",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion (Opt 2)
+http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion (LQ)
+http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
+#EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png", Anime Loving TV
+http://animeloving.net/hls/stream.m3u8
