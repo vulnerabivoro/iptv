@@ -107,14 +107,8 @@ http://ott-cdn.ucom.am/s96/index.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera (QA) (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="Sport",ESPN (Opt-1)
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="Sport",ESPN (Opt-2)
-http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="Sport",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="Sport",ESPN News
-https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="Sport",ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Other",TMZ
